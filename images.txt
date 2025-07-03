@@ -108,6 +108,7 @@ golang:1.23.9-alpine3.22
 #python:3.12.9-slim-bookworm
 #python:3.11.11-slim-bookworm
 #python:3.10.16-slim-bookworm
+python:3.13-slim
 
 #jupyter/base-notebook:x86_64-notebook-7.0.6
 
